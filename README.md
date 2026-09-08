@@ -4,7 +4,7 @@
 
 ### Android Developer · AI Builder · Founder of Gym Fitness Technology
 
-**9+ years building Android products · 100+ apps · 10M+ cumulative downloads**
+**10+ years building Android products · 100+ apps · 10M+ cumulative downloads**
 
 [![Website](https://img.shields.io/badge/Website-gymfitness.app-0A66C2?style=flat-square)](https://www.gymfitness.app/)
 ![Android](https://img.shields.io/badge/Android-Native-3DDC84?style=flat-square&logo=android&logoColor=white)
