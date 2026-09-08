@@ -29,8 +29,6 @@
 ![Material Design](https://img.shields.io/badge/Material%20Design-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Java · Kotlin · Flutter · Dart · Android SDK · Android Studio · Room · SQLite · Material Design · Firebase**
-
 </div>
 
 ---
