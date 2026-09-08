@@ -8,6 +8,7 @@ content = r"""<div align="center">
 
 **10+ years building mobile products · 100+ apps · 10M+ cumulative downloads**
 
+[![Google Play](https://img.shields.io/badge/Google%20Play-Developer%20Portfolio-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=8259563491158815907&hl=en)
 [![Website](https://img.shields.io/badge/Website-gymfitness.app-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.gymfitness.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-javierunate-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javierunate)
 
@@ -42,9 +43,77 @@ I'm a mobile developer and product builder focused on **fitness technology, arti
 
 For more than **10 years**, I have designed, developed and maintained mobile products across a portfolio of **100+ apps**, reaching **10M+ cumulative downloads**.
 
-I founded **Gym Fitness Technology**, where I work across product engineering, Android development, Flutter, AI-assisted experiences, fitness content systems, automation and product growth.
+I founded **Gym Fitness Technology**, where I work across product engineering, Android development, Flutter, AI-assisted experiences, web products, fitness content systems, automation and product growth.
 
 > 💡 **Current focus:** building software that combines real fitness domain knowledge with adaptive AI.
+
+---
+
+## 📲 Published on Google Play
+
+My work includes a long-running portfolio of Android fitness products published under **Gym Fitness & Workout**.
+
+<div align="center">
+
+[![View all apps](https://img.shields.io/badge/VIEW%20ALL%20APPS-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=8259563491158815907&hl=en)
+
+</div>
+
+### Selected apps
+
+| Product | Google Play |
+|---|---|
+| 💪 **Gym Fitness Workout: Gym Coach** | [![Google Play](https://img.shields.io/badge/Open-Google%20Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jleoapps.gymtotal) |
+| 🏋️ **Shoulder & Back Workout** | [![Google Play](https://img.shields.io/badge/Open-Google%20Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.shoulderworkoutbackworkout.dumbbellbarbellexercice) |
+| 🔗 **Resistance Band Workout by GFT** | [![Google Play](https://img.shields.io/badge/Open-Google%20Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.gymfitness.resistancebandworkoutformenathome) |
+
+> The Google Play developer page showcases additional published fitness apps across strength training, mobility, home workouts, body composition, timers and more.
+
+---
+
+## 🧠 AI & Intelligent Systems
+
+I’m increasingly focused on building products where AI is part of the **core product experience**, not just an added feature.
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-5B5FC7?style=for-the-badge)
+![Local AI](https://img.shields.io/badge/Local%20AI-111111?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge)
+
+### Current AI focus
+
+- 🧠 **Adaptive AI Personal Trainer** — training that evolves according to goals, history, performance and progression.
+- 💪 **AI-assisted fitness experiences** — personalized workout generation and intelligent training recommendations.
+- 🖥️ **Local + cloud LLM integrations** — OpenAI, local models, llama.cpp and hybrid AI workflows.
+- 📚 **RAG & intelligent context** — connecting product knowledge and structured fitness information to AI systems.
+- 🤖 **AI agents & automation** — using AI to assist development, content operations and product workflows.
+
+---
+
+## 🌐 Web, Product Tools & Automation
+
+Alongside mobile development, I build web applications and internal tools for managing products, content and automation.
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+
+### Web & internal products
+
+- 🌐 **Gym Fitness Technology Website** — product, brand and fitness ecosystem presence.
+- 📊 **PlayStore AI Manager** — tooling for app listings, localization, screenshots and store operations.
+- 🎬 **Gym Fitness Content Engine** — AI-assisted content production and publishing workflows.
+- ⚙️ **Automation systems** — APIs, webhooks, Firebase, Docker and AI-assisted operational workflows.
+
+<div align="center">
+
+[![Gym Fitness Technology](https://img.shields.io/badge/Visit-Gym%20Fitness%20Technology-00AEEF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.gymfitness.app/)
+
+</div>
 
 ---
 
@@ -54,6 +123,7 @@ I founded **Gym Fitness Technology**, where I work across product engineering, A
 |---|---|
 | 🧠 **AI Fitness** | Adaptive training experiences and personalized workout systems |
 | 📱 **Mobile** | Native Android with Java/Kotlin and cross-platform development with Flutter |
+| 🌐 **Web Products** | React-based tools, dashboards and product infrastructure |
 | ☁️ **Cloud** | Firebase, Firestore, APIs, authentication and scalable app infrastructure |
 | 🤖 **AI Systems** | LLM integrations, local AI, RAG and intelligent automation |
 | ⚙️ **Developer Tools** | Internal platforms for app operations, content and productivity |
@@ -106,6 +176,8 @@ A large-scale fitness product ecosystem focused on workout discovery, guided tra
 - 🤖 AI-assisted workout functionality
 - 🌍 Fitness content across multiple training modalities
 
+[![Google Play](https://img.shields.io/badge/Available%20on-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jleoapps.gymtotal)
+
 ---
 
 ### 🧠 Adaptive AI Personal Trainer
@@ -142,7 +214,7 @@ Experience across specialized products for:
 
 ## 🎯 Engineering interests
 
-`Android Architecture` · `Kotlin` · `Flutter` · `Cross-Platform Development` · `Artificial Intelligence` · `Fitness Technology` · `Product Engineering` · `Developer Automation` · `Local LLMs` · `AI Agents`
+`Android Architecture` · `Kotlin` · `Flutter` · `Cross-Platform Development` · `Artificial Intelligence` · `Fitness Technology` · `Web Product Development` · `Product Engineering` · `Developer Automation` · `Local LLMs` · `AI Agents`
 
 ---
 
@@ -156,7 +228,8 @@ Experience across specialized products for:
 ![Downloads](https://img.shields.io/badge/10M%2B-Cumulative%20Downloads-00A86B?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/10%2B-Years-8A2BE2?style=for-the-badge)
 
-🌐 [gymfitness.app](https://www.gymfitness.app/)
+[![Google Play](https://img.shields.io/badge/Google%20Play-App%20Portfolio-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=8259563491158815907&hl=en)
+[![Website](https://img.shields.io/badge/Website-gymfitness.app-00AEEF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.gymfitness.app/)
 
 </div>
 
@@ -165,6 +238,7 @@ Experience across specialized products for:
 ## 📬 Contact
 
 - 🌐 Website: [gymfitness.app](https://www.gymfitness.app/)
+- 📲 Google Play: [Gym Fitness & Workout](https://play.google.com/store/apps/dev?id=8259563491158815907&hl=en)
 - 💻 GitHub: [@javierunate](https://github.com/javierunate)
 
 ---
@@ -173,11 +247,11 @@ Experience across specialized products for:
 
 ### 💙 Fitness × Software × AI
 
-**Building useful products at the intersection of training, mobile technology and artificial intelligence.**
+**Building useful products at the intersection of training, mobile technology, web products and artificial intelligence.**
 
 </div>
 """
 
-path = Path("/mnt/data/README-javierunate-professional-color.md")
+path = Path("/mnt/data/README-javierunate-googleplay-ai-web.md")
 path.write_text(content, encoding="utf-8")
 print(path)
