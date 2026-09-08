@@ -1,120 +1,183 @@
-<div align="center">
+from pathlib import Path
 
-Javier Leonardo Uñate Romero
+content = r"""<div align="center">
 
-Android & Flutter Developer · AI Builder · Founder of Gym Fitness Technology
+# Javier Leonardo Uñate Romero
 
-10+ years building Android products · 100+ apps · 10M+ cumulative downloads
+### Android & Flutter Developer · AI Builder · Founder of Gym Fitness Technology
 
+**10+ years building mobile products · 100+ apps · 10M+ cumulative downloads**
 
-
+[![Website](https://img.shields.io/badge/Website-gymfitness.app-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.gymfitness.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-javierunate-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javierunate)
 
 </div>
 
-About me
+---
 
-I'm an Android and Flutter developer and product builder focused on fitness technology, artificial intelligence and mobile software.
+<div align="center">
 
-For more than 9 years, I have designed, developed and maintained Android products across a portfolio of 100+ apps, reaching 10M+ cumulative downloads.
+### 📱 Mobile Development
 
-I founded Gym Fitness Technology, where I work across product engineering, native Android development, AI-assisted experiences, fitness content systems, automation and product growth.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Room](https://img.shields.io/badge/Room-8E44AD?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-My current focus is building software that combines real fitness domain knowledge with adaptive AI.
+**Java · Kotlin · Flutter · Dart · Android SDK · Android Studio · Room · SQLite · Material Design · Firebase**
 
-What I'm building
+</div>
 
-AI-powered adaptive fitness experiences
+---
 
-Native Android applications with Java and Kotlin
+## 👨‍💻 About me
 
-Cross-platform mobile development with Flutter
+I'm a mobile developer and product builder focused on **fitness technology, artificial intelligence and scalable software products**.
 
-Personalized workout and training systems
+For more than **10 years**, I have designed, developed and maintained mobile products across a portfolio of **100+ apps**, reaching **10M+ cumulative downloads**.
 
-Local and cloud LLM integrations
+I founded **Gym Fitness Technology**, where I work across product engineering, Android development, Flutter, AI-assisted experiences, fitness content systems, automation and product growth.
 
-AI-assisted development and automation workflows
+> 💡 **Current focus:** building software that combines real fitness domain knowledge with adaptive AI.
 
-Fitness content, progression and recommendation systems
+---
 
-Internal tools for content production and app operations
+## 🚀 What I'm building
 
-Core technologies
+| Area | Current focus |
+|---|---|
+| 🧠 **AI Fitness** | Adaptive training experiences and personalized workout systems |
+| 📱 **Mobile** | Native Android with Java/Kotlin and cross-platform development with Flutter |
+| ☁️ **Cloud** | Firebase, Firestore, APIs, authentication and scalable app infrastructure |
+| 🤖 **AI Systems** | LLM integrations, local AI, RAG and intelligent automation |
+| ⚙️ **Developer Tools** | Internal platforms for app operations, content and productivity |
+| 📈 **Product Growth** | Building and improving fitness products for international audiences |
 
-Mobile
+---
 
-Java · Kotlin · Flutter · Dart · Android SDK · Android Studio · Room · SQLite · Material Design
+## 🧰 Core technologies
 
-Backend & cloud
+### 📱 Mobile
+`Java` · `Kotlin` · `Flutter` · `Dart` · `Android SDK` · `Android Studio` · `Room` · `SQLite` · `Material Design` · `Firebase`
 
-Firebase · Firestore · REST APIs · OAuth · JSON
+### ☁️ Backend & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
-AI
+### 🤖 AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-5B5FC7?style=flat-square)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-111111?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=flat-square)
 
-OpenAI · LLMs · llama.cpp · Local AI · RAG · AI Agents
+### 🌐 Web & Automation
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
-Web & automation
+---
 
-React · Vite · Git · GitHub · Docker · FFmpeg
+## 🏆 Selected product work
 
-Selected product work
+### 💪 Gym Fitness Workout
 
-Gym Fitness Workout
+A large-scale fitness product ecosystem focused on workout discovery, guided training, personalization and progress tracking.
 
-A large-scale fitness product ecosystem focused on workout discovery, guided training and progress tracking.
+**Highlights**
 
-Highlights
+- 🏋️ **1,000+ exercises**
+- 📚 **700+ workout routines**
+- 🗓️ Multi-week training plans
+- 📊 Weight, sets, reps and progress tracking
+- 🧠 Personalized training experiences
+- 🤖 AI-assisted workout functionality
+- 🌍 Fitness content across multiple training modalities
 
-1,000+ exercises
+---
 
-700+ workout routines
+### 🧠 Adaptive AI Personal Trainer
 
-Multi-week training plans
+Building a next-generation fitness product centered on an **adaptive AI personal trainer**.
 
-Weight, sets, reps and progress tracking
+The goal is not simply to generate workouts from prompts, but to build a system that adapts training according to:
 
-Personalized training experiences
+`Goals` · `Performance` · `History` · `Progression` · `Preferences`
 
-AI-assisted workout functionality
+**Focus**
 
-Content across multiple training modalities
+![AI](https://img.shields.io/badge/AI-5B5FC7?style=flat-square)
+![Personalization](https://img.shields.io/badge/Personalization-00A6A6?style=flat-square)
+![Adaptive Training](https://img.shields.io/badge/Adaptive%20Training-2E8B57?style=flat-square)
+![Fitness Intelligence](https://img.shields.io/badge/Fitness%20Intelligence-FF6B35?style=flat-square)
 
-Adaptive AI Personal Trainer
+---
 
-Building a next-generation fitness product centered on an adaptive AI personal trainer.
-
-The goal is not simply to generate workouts from prompts, but to create a system that adapts training according to user goals, performance, history and progression.
-
-Focus: AI · Personalization · Adaptive Training · Fitness Intelligence
-
-Android fitness portfolio
+### 📲 Android & Mobile Fitness Portfolio
 
 Experience across specialized products for:
 
-Strength Training · Home Workouts · Resistance Bands · Suspension Training · Mobility · Body Composition · Pedometers · Workout Planning
+![Strength](https://img.shields.io/badge/Strength%20Training-DC143C?style=flat-square)
+![Home Workouts](https://img.shields.io/badge/Home%20Workouts-FF8C00?style=flat-square)
+![Resistance Bands](https://img.shields.io/badge/Resistance%20Bands-7B68EE?style=flat-square)
+![Suspension](https://img.shields.io/badge/Suspension%20Training-008B8B?style=flat-square)
+![Mobility](https://img.shields.io/badge/Mobility-3CB371?style=flat-square)
+![Body Composition](https://img.shields.io/badge/Body%20Composition-1E90FF?style=flat-square)
+![Pedometers](https://img.shields.io/badge/Pedometers-DA70D6?style=flat-square)
+![Workout Planning](https://img.shields.io/badge/Workout%20Planning-FFD700?style=flat-square&logoColor=black)
 
-Engineering interests
+---
 
-Android Architecture · Kotlin · Flutter · Cross-Platform Development · Artificial Intelligence · Fitness Technology · Product Engineering · Developer Automation · Local LLMs · AI Agents
+## 🎯 Engineering interests
 
-Gym Fitness Technology
+`Android Architecture` · `Kotlin` · `Flutter` · `Cross-Platform Development` · `Artificial Intelligence` · `Fitness Technology` · `Product Engineering` · `Developer Automation` · `Local LLMs` · `AI Agents`
 
-Building fitness software and digital training experiences since 2016.
+---
 
-100+ apps developed · 10M+ cumulative downloads
+## 🏢 Gym Fitness Technology
 
-🌐 gymfitness.app
-
-Contact
-
-Website: gymfitness.app
-
-GitHub: @javierunate
+**Building fitness software and digital training experiences since 2016.**
 
 <div align="center">
 
-Fitness × Software × AI
+![Apps](https://img.shields.io/badge/100%2B-Apps-0A66C2?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/10M%2B-Cumulative%20Downloads-00A86B?style=for-the-badge)
+![Experience](https://img.shields.io/badge/10%2B-Years-8A2BE2?style=for-the-badge)
 
-Building useful products at the intersection of training, mobile technology and artificial intelligence.
+🌐 [gymfitness.app](https://www.gymfitness.app/)
 
 </div>
+
+---
+
+## 📬 Contact
+
+- 🌐 Website: [gymfitness.app](https://www.gymfitness.app/)
+- 💻 GitHub: [@javierunate](https://github.com/javierunate)
+
+---
+
+<div align="center">
+
+### 💙 Fitness × Software × AI
+
+**Building useful products at the intersection of training, mobile technology and artificial intelligence.**
+
+</div>
+"""
+
+path = Path("/mnt/data/README-javierunate-professional-color.md")
+path.write_text(content, encoding="utf-8")
+print(path)
